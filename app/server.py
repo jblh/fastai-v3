@@ -8,8 +8,9 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-# export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://www.dropbox.com/s/h0iin7cgmllkqp8/export.pkl?dl=1
+# export_file_url = 'https://www.dropbox.com/s/h0iin7cgmllkqp8/export.pkl?raw=1'  
+# export_file_url = 'https://www.dropbox.com/s/uiqkt6t1q9h6gve/export.pkl?dl=1'
+export_file_url = 'https://www.dropbox.com/s/uiqkt6t1q9h6gve/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 classes = ['dali', 'monet', 'picasso', 'vangogh']
